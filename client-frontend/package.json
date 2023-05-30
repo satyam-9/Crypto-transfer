@@ -1,0 +1,45 @@
+{
+  "name": "crypto_transfer",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babel/compat-data": "^7.17.0",
+    "@reduxjs/toolkit": "^1.8.0",
+    "@tailwindcss/forms": "^0.4.0",
+    "axios": "^0.20.0",
+    "babel-polyfill": "6.26.0",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
+    "babel-preset-stage-3": "6.24.1",
+    "babel-register": "6.26.0",
+    "bootstrap": "4.3.1",
+    "chai": "4.2.0",
+    "chai-as-promised": "7.1.1",
+    "chai-bignumber": "3.0.0",
+    "chart.js": "^3.7.1",
+    "ethers": "^5.5.3",
+    "html-react-parser": "^1.4.10",
+    "millify": "^4.0.0",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "1.0.0-beta.5",
+    "react-chartjs-2": "^4.0.1",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "2.1.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15",
+    "vite": "^2.7.2"
+  }
+}

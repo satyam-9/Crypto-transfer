@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4902.109" height="1789.82" viewBox="0 0 4902.109 1789.82">
+  <defs>
+    <pattern id="pattern" width="1" height="1" patternTransform="translate(1424.801 2321.394) rotate(-180)" viewBox="0 0 712.401 1160.697">
+      <image preserveAspectRatio="none" width="712.401" height="1160.697" xlink:href="Group%201-image5.png"/>
+    </pattern>
+    <filter id="Crypto_Transfer" x="125.958" y="982.898" width="2400" height="460" filterUnits="userSpaceOnUse">
+      <feOffset dx="2.5" dy="2.5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.349" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-356.291 -510.102)">
+    <path id="Path_1" data-name="Path 1" d="M372,750.439,2873.317,576.3s174.143-15.831,134.564,174.143-23.747,569.92-23.747,569.92,31.662,110.818-269.129,94.987S977.54,1344.1,372,1320.359" transform="translate(41.578 702.717)" fill="none" stroke="#fff" stroke-width="100"/>
+    <path id="Path_2" data-name="Path 2" d="M767.476,1619.567V557.333H593.333" transform="translate(2483.831 535.664)" fill="none" stroke="#fff" stroke-width="100"/>
+    <path id="Path_3" data-name="Path 3" d="M1263.047,818.973S1007.77,441,705,791.269" transform="translate(3698.021 1461.359)" fill="none" stroke="#fff" stroke-width="70"/>
+    <path id="Path_4" data-name="Path 4" d="M2424.747,1445.593s110.817-334-411.609-365.664-886.542,0-886.542,0h506.6l-395.777-506.6H620" transform="translate(2773.787 709.637)" fill="none" stroke="#fff" stroke-width="100"/>
+    <image id="polkadot" width="563.441" height="754.608" transform="translate(472.927 841.018) rotate(-8)" xlink:href="Group%201-image.png"/>
+    <image id="solana" width="649.084" height="649.084" transform="translate(1302.591 949.509) rotate(-21)" xlink:href="Group%201-image2.png"/>
+    <image id="binance" width="766.28" height="766.28" transform="matrix(0.985, 0.174, -0.174, 0.985, 2321.616, 620.219)" xlink:href="Group%201-image3.png"/>
+    <image id="bitcoin" width="1543.535" height="868.238" transform="translate(356.291 1012.627) rotate(-19)" xlink:href="Group%201-image4.png"/>
+    <rect id="ethereum" width="712.401" height="1160.697" transform="translate(2015.917 510.102) rotate(19)" fill="url(#pattern)"/>
+    <g id="Path_5" data-name="Path 5" transform="translate(425.078 1299.886)" fill="#fff">
+      <path d="M 2558.24560546875 833.4920043945312 L -10.99984931945801 750.4099731445312 L -10.99984931945801 139.8892822265625 L 2611.9736328125 -8.468842506408691 L 2558.24560546875 833.4920043945312 Z" stroke="none"/>
+      <path d="M 2611.438232421875 -7.93798828125 L -10.500244140625 140.3619384765625 L -10.500244140625 749.9259033203125 L 2557.777099609375 832.9766235351562 L 2611.438232421875 -7.93798828125 M 2612.508056640625 -9.00006103515625 L 2558.71337890625 834.00732421875 L -11.500244140625 750.8939819335938 L -11.500244140625 139.4169921875 L 2612.508056640625 -9.00006103515625 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g data-type="innerShadowGroup">
+      <text id="Crypto_Transfer-2" data-name="Crypto Transfer" transform="translate(482.249 1873)" fill="#141414" font-size="377" font-family="Impact"><tspan x="0" y="0">Crypto Transfer</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 356.29, 510.1)" filter="url(#Crypto_Transfer)">
+        <text id="Crypto_Transfer-3" data-name="Crypto Transfer" transform="translate(125.96 1362.9)" fill="#fff" font-size="377" font-family="Impact"><tspan x="0" y="0">Crypto Transfer</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
